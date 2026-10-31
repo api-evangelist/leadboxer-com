@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-leadboxer-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://leadboxer.com/
+LeadBoxer provides a B2B signals platform that captures website and email activity to identify and enrich company profiles. Its API offers IP, email, website tracking, server‑side events, and data enrichment endpoints, enabling SaaS builders, RevOps teams, and agencies to integrate real‑time lead intelligence into their workflows.
+
+**Areas:** B2B · LeadEnrichment · Marketing · Data · API
+
+## leadboxer-com on APIs.io
+
+Everything profiled for leadboxer-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/leadboxer-com/](https://apis.io/providers/leadboxer-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [leadboxer-com Credit Management API](https://apis.io/apis/leadboxer-com/leadboxer-com-credit-management-api/) — The Credit Management API from leadboxer-com — 1 operation(s) for credit management.
+- [leadboxer-com Custom Tracking Domains API](https://apis.io/apis/leadboxer-com/leadboxer-com-custom-tracking-domains-api/) — The Custom Tracking Domains API from leadboxer-com — 4 operation(s) for custom tracking domains.
+- [leadboxer-com Dataset Management API](https://apis.io/apis/leadboxer-com/leadboxer-com-dataset-management-api/) — Manage your datasets. Add, update, delete datasets from your account, configure preferences, and manage form tracking.
+- [leadboxer-com Lead Operation API](https://apis.io/apis/leadboxer-com/leadboxer-com-leadoperation-api/) — Manage your Lead.
+- [leadboxer-com Leads API](https://apis.io/apis/leadboxer-com/leadboxer-com-leads-api/) — Get your top leads with fine grained filtering criteria.
+- [leadboxer-com Log API](https://apis.io/apis/leadboxer-com/leadboxer-com-log-api/) — The Log API from leadboxer-com — 1 operation(s) for log.
+- [leadboxer-com Lookup API](https://apis.io/apis/leadboxer-com/leadboxer-com-lookup-api-api/) — APIs for IP, Domain and Email lookup operations
+- [leadboxer-com Segment Preference API](https://apis.io/apis/leadboxer-com/leadboxer-com-segment-preference-api/) — Defines and manages which segment is set as default for a given combination of User ID and Dataset ID. A user can have multiple segments under a dataset,…
+- [leadboxer-com Segments API](https://apis.io/apis/leadboxer-com/leadboxer-com-segments-api/) — Manage your segments. Add, update, delete segments for your datasets etc.
+- [leadboxer-com Track API](https://apis.io/apis/leadboxer-com/leadboxer-com-track-api-api/) — The Track API API from leadboxer-com — 1 operation(s) for track api.
+- [leadboxer-com User Management API](https://apis.io/apis/leadboxer-com/leadboxer-com-user-management-api/) — API endpoints for managing users within an account. These operations allow you to create users, update their basic information, manage invitations, retrieve…
+- [leadboxer-com User Datasets API](https://apis.io/apis/leadboxer-com/leadboxer-com-userdatasets-api/) — Manage access to your datasets. Associate/dissociate datasets with users etc.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Leadboxer Com Agentic Access](https://apis.io/agentic-access/leadboxer-com/leadboxer-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ContactProfileDetails](https://apis.io/schemas/leadboxer-com/leadboxer-com-contact-profile-details/)
+- [CreateSegmentRequest](https://apis.io/schemas/leadboxer-com/leadboxer-com-create-segment-request/)
+- [CustomTrackingDomainValidationResponse](https://apis.io/schemas/leadboxer-com/leadboxer-com-custom-tracking-domain-validation-response/)
+- [DomainOrganizationDetails](https://apis.io/schemas/leadboxer-com/leadboxer-com-domain-organization-details/)
+- [IpLookupDetails](https://apis.io/schemas/leadboxer-com/leadboxer-com-ip-lookup-details/)
+- [UpdateSegmentRequest](https://apis.io/schemas/leadboxer-com/leadboxer-com-update-segment-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Leadboxer Com Context](https://apis.io/jsonld/leadboxer-com/leadboxer-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [leadboxer-com API Rules](https://apis.io/rules/leadboxer-com/leadboxer-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Leadboxer Com Authentication](https://apis.io/security/leadboxer-com/leadboxer-com-authentication/)
+- [Leadboxer Com Domain Security](https://apis.io/security/leadboxer-com/leadboxer-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Leadboxer Com Plans Pricing](https://apis.io/plans/leadboxer-com/leadboxer-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Leadboxer Com Rate Limits](https://apis.io/rate-limits/leadboxer-com/leadboxer-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://leadboxer.com/)
+- [Documentation](https://developers.leadboxer.com/docs)
+- [Getting started](https://developers.leadboxer.com/docs/quickstart)
+- [API reference](https://developers.leadboxer.com/reference)
+- [Pricing](https://www.leadboxer.com/pricing)
+- [Sign up](https://app.leadboxer.com/sign-up)
+- [Support](https://www.leadboxer.com/contact)
+- [Changelog](https://developers.leadboxer.com/changelog)
+- [Blog](https://www.leadboxer.com/blog)
+- [Terms of service](https://www.leadboxer.com/resources/terms)
+- [Privacy policy](https://www.leadboxer.com/resources/privacy)
+- [GitHub](https://github.com/leadboxer)
+
+## API Evangelist rating
+
+**Kin Score 66.8** — exemplar · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 60.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 49.5 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 41.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leadboxer-com/](https://apis.io/providers/leadboxer-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for leadboxer-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/leadboxer-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
